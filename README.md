@@ -22,11 +22,12 @@ I then move to the SSH client and copied the document under key not publicly vie
 
 Then i connect to my EC2 instance by copying the example the example in SSH client, the example already has my keypair name and my EC2 instance and i pasted it on the gitbash and it ask if i want to continue and i typed yes.
 ### The image of where my EC2 instance is sitting on is uploaded above on my Github.com page
-![GITBASHAPACHE1](/GITBASHAPACHE1.png)
+![Keypair Gitbash](/KeypairGitbash.png)
 ## NEXT STEP IS INSTALLING APACHE 
 I install the Apache webserver by typing the code on my project documents on the gitbash command page
 ### The two images of my Gitbash page running while trying to install my Apache  webserver is below
-![gitbashapache2](/GITBASHAPACHE2.png)
+![GitBashApache1](/GITBASHAPACHE1.png)
+![GitBashApache2](/GITBASHAPACHE2.png)
 ##  NEXT STEP IS THE COPYING OF MY IP ADDRESS ON MY WEB BROWSER TO VIEW THE TEST PAGE
 I copied my IP Address from my EC2 Instance and pasted it on my browser search bar and it displayed the test page cconfirming i have successfully insstall my Apache webserver on my EC2 inatance and then i exited from my gitbash command page.
 ### The image of my testpage displaying is uploaded above on my github.com
