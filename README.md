@@ -4,7 +4,7 @@ After signing in, I typed EC2 on the searach bar aand scroll down on the left si
 On the security group page i typed AtinukeAkinyemi_litaSG on the security group name and select the VPC created by Lita.
 I then added Inbound rule for my SSH and HTTP traffic and seet the source as Anywhere IP4 Address to alloww traffic anywhere While I left the outbound rule as it is by allowing all traffic.
 After adding rule, I click on create Security Group.
-### The Image of my security Group created is uploaded above on my Github.com page due to the fact that my laptop is window 7 and couldn't download the github desktop
+### The Image of my security Group created is uploaded above on my Github.com page
 ![SECURITY GROUP IMAGE](/SECURITYGROUP.png)
 ## NEXT STEP: WHICH IS LAUNCHING MY INSTANCES 
 I click on Launch Insstances and enter AtinukeAkinyemi_lita as my Name and tags Info and hoose AWS as Application and OS Images.
