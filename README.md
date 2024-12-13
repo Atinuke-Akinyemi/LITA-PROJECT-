@@ -24,6 +24,9 @@ I install the Apache webserver by typing the code on my project documents on the
 ##  NEXT STEP IS THE COPYING OF MY IP ADDRESS ON MY WEB BROWSER TO VIEW THE TEST PAGE
 I copied my IP Address from my EC2 Instance and pasted it on my browser search bar and it displayed the test page cconfirming i have successfully insstall my Apache webserver on my EC2 inatance and then i exited from my gitbash command page.
 ### The image of my testpage displaying is uploaded above on my github.com
+Below is my IP Address to the Test page of my Apache Webserver:
+http://18.232.122.138/
 
+#### Thanks LITA Team
 
 
