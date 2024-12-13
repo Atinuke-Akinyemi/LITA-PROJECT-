@@ -13,6 +13,7 @@ After which i created my keypair by clicking New keypair and entering my keypair
 I then edited my Network setting by choosing the VPC created by LITA and set my EC2 to be on the public subnet created by Lita so as to access via Internet and enable Auto-assign public IP Info and then select the existing security group created by me.
 Then I lauch my Instances and Refresh the page to see if it has be checked.
 ### The Image of my instances running is also uploaded above on my Github.com page
+![EC2INSTANCESIMAGE](/EC2RUNNING.png)
 ## NEXT STEP: WHICH IS CONNECTING TO MY EC2 INSTANCES TO INSTALL APACHE WEBSERVER ON IT.
 I click on my EC2 instance and go to connect.
 I then move to the SSH client and copied the document under key not publicly viewable and paste it on gitbash where my keypair is downloaded.
