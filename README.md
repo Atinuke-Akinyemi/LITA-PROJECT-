@@ -18,6 +18,7 @@ Then I lauch my Instances and Refresh the page to see if it has be checked.
 I click on my EC2 instance and go to connect.
 I then move to the SSH client and copied the document under key not publicly viewable and paste it on gitbash where my keypair is downloaded.
 ### The image of my SSH Client is uploaded above on my Github.com page
+![SSHCLIENT](/SSHClient.png)
 Then i connect to my EC2 instance by copying the example the example in SSH client, the example already has my keypair name and my EC2 instance and i pasted it on the gitbash and it ask if i want to continue and i typed yes.
 ### The image of where my EC2 instance is sitting on is uploaded above on my Github.com page
 ## NEXT STEP IS INSTALLING APACHE 
