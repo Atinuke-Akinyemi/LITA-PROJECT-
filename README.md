@@ -20,7 +20,7 @@ I then move to the SSH client and copied the document under key not publicly vie
 ### The image of my SSH Client is below
 ![SSHCLIENT](/SSHClient.png)
 
-Then i connect to my EC2 instance by copying the example the example in SSH client, the example already has my keypair name and my EC2 instance and i pasted it on the gitbash and it ask if i want to continue and i typed yes.
+Then i connect to my EC2 instance by copying the example the example in SSH client, the example already has my keypair [name](https://github.com/Atinuke-Akinyemi/LITA-PROJECT-/edit/main/README.md) and my EC2 instance and i pasted it on the gitbash and it ask if i want to continue and i typed yes.
 ### The image of where my EC2 instance is sitting on is below
 ![Keypair Gitbash](/KeypairGitbash.png)
 ## NEXT STEP IS INSTALLING APACHE 
